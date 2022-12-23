@@ -1,0 +1,7 @@
+numpy
+requests
+setuptools
+PyAudio
+darkdetect
+Pillow
+wave
